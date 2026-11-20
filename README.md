@@ -20,8 +20,8 @@ All machines are connected through a **Tailscale (WireGuard) mesh**. Full detail
 
 | Person | Owns | Folder |
 |---|---|---|
-| _Your name_ | PC 2: CTI and adaptation | `pc2/` |
-| _Friend's name_ | PC 1: collect and analyse | `pc1/` |
+| Youssef | PC 2: CTI and adaptation | `pc2/` |
+| Marouane | PC 1: collect and analyse | `pc1/` |
 | Both | Sensors, shared dashboards | `sensors/`, `shared/` |
 
 ## Repository layout
