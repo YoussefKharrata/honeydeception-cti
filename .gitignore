@@ -1,0 +1,28 @@
+# Secrets
+.env
+*.key
+*.pem
+secrets/
+
+# Data and captures (never commit attacker data or malware samples)
+data/
+captures/
+samples/
+*.pcap
+*.pcapng
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Docker volumes
+volumes/
