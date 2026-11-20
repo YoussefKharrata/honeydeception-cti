@@ -1,6 +1,6 @@
 # PC 1: collect and analyse
 
-Owner: _friend's name_
+Owner: Marouane
 
 Planned components (added step by step):
 
