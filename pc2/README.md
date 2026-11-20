@@ -1,6 +1,6 @@
 # PC 2: CTI and adaptation
 
-Owner: _your name_
+Owner: Youssef
 
 Planned components (added step by step):
 
